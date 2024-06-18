@@ -1,6 +1,4 @@
 let numeros = [4, 12, 4, 5, 6, 7, 9, 1, 1];
-let maior = 0;
-let menor;
 let aux;
 
 for (let i = 0; i < numeros.length; i++) {
